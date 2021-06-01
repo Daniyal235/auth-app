@@ -52,7 +52,7 @@ class LoginPage extends StatelessWidget {
                         style: TextStyle(
                           color:
                               Theme.of(context).accentTextTheme.headline6.color,
-                          fontSize: 50,
+                          fontSize: 52,
                           fontFamily: 'Anton',
                           fontWeight: FontWeight.normal,
                         ),
